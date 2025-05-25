@@ -1,4 +1,4 @@
-# 📰 Fake News Detector (Machine Learning)
+#  Fake News Detector (Machine Learning)
 
 This project uses NLP and machine learning to classify news articles as **Real** or **Fake**.
 
